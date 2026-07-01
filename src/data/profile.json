@@ -1,0 +1,87 @@
+{
+  "name": "Faysal Ahmed",
+  "title": "Junior Software Engineer | Full-Stack Web Developer | UI/UX Designer",
+  "heroDescription": "I build modern web applications, IPTV platforms, billing systems, and ISP management solutions with clean UI, scalable architecture, and reliable performance.",
+  "profileImage": "https://faysal.kesug.com/faysal/faysal.jpg",
+  "address": "Mymensingh, Bangladesh",
+  "availability": "Available for Freelance & Full-Time Opportunities",
+  "responseTime": "Usually responds within 24 hours.",
+  "whatsappAvailability": "Available on WhatsApp",
+  "whatsapp": {
+    "username": "mrfaysal007",
+    "directLink": "https://wa.me/8801736705156",
+    "phone": "01736705156"
+  },
+  "contact": {
+    "phone": "01736705156",
+    "email": "fa2626813@gmail.com",
+    "website": "https://faysal.kesug.com/contact"
+  },
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/profile.php?id=100090807396322",
+    "linkedin": "https://www.linkedin.com/in/faysal-ahmed-b81a03398/",
+    "github": "https://github.com/fsfaysa1",
+    "instagram": "https://www.instagram.com/mrfaysal007/",
+    "twitter": "https://x.com/dnhfaysal",
+    "tiktok": "https://www.tiktok.com/@imfaysa1"
+  },
+  "stats": [
+    { "label": "Completed Projects", "value": "27+" },
+    { "label": "Happy Clients", "value": "7+" },
+    { "label": "Years Experience", "value": "2+" },
+    { "label": "Client Satisfaction", "value": "95%" }
+  ],
+  "aboutMe": "I'm Faysal Ahmed, a passionate Junior Software Engineer and Web Developer with over 2 years of experience in building business-focused web applications, IPTV platforms, ISP management systems, and custom software solutions. I enjoy creating practical, scalable, secure, and user-friendly digital products that simplify business workflows and improve user experience. My goal is to deliver clean, maintainable, and high-performance applications with modern UI/UX.",
+  "experience": [
+    {
+      "position": "Junior Software Engineer & Field Support Engineer",
+      "company": "Madhabpur Titil Dot Net",
+      "duration": "2024 – Present",
+      "responsibilities": [
+        "Develop internal business web applications.",
+        "Build Billing & Customer Management Systems.",
+        "Design IPTV Dashboards and Admin Panels.",
+        "Integrate REST APIs.",
+        "Maintain and optimize business software.",
+        "Provide network troubleshooting.",
+        "Configure networking devices.",
+        "Support customers in the field.",
+        "Improve system performance and reliability."
+      ]
+    }
+  ],
+  "achievements": [
+    "Successfully completed 27+ web projects.",
+    "Worked with 7+ clients.",
+    "Developed multiple IPTV platforms.",
+    "Built ISP business management systems.",
+    "Designed modern admin dashboards.",
+    "Built customer management software.",
+    "Developed responsive business web applications."
+  ],
+  "softSkills": [
+    "Communication",
+    "Teamwork",
+    "Problem Solving",
+    "Critical Thinking",
+    "Time Management",
+    "Fast Learner"
+  ],
+  "languages": [
+    { "name": "Bengali", "level": "Native" },
+    { "name": "English", "level": "Intermediate" }
+  ],
+  "education": {
+    "degree": "Diploma in Engineering",
+    "department": "Computer Science & Technology",
+    "institute": "Brahmanbaria Polytechnic Institute"
+  },
+  "interests": [
+    "Web Technologies",
+    "IPTV Solutions",
+    "Networking",
+    "Linux",
+    "Open Source",
+    "UI/UX Design"
+  ]
+}

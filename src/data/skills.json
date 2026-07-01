@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "name": "Frontend",
+      "skills": ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Tailwind CSS"]
+    },
+    {
+      "name": "Backend",
+      "skills": ["PHP", "Node.js", "Express", "REST API Integration"]
+    },
+    {
+      "name": "Database",
+      "skills": ["MySQL", "Firestore"]
+    },
+    {
+      "name": "Tools",
+      "skills": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
+    },
+    {
+      "name": "Networking & SysAdmin",
+      "skills": ["Router Configuration", "Basic Linux", "Network Support", "Troubleshooting"]
+    }
+  ]
+}

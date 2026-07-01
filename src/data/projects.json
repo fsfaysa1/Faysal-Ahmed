@@ -1,0 +1,43 @@
+{
+  "featured": [
+    {
+      "id": "faysal-tv",
+      "title": "Faysal TV",
+      "category": "IPTV Streaming Platform",
+      "previewImage": "https://faysal.kesug.com/faysal/tv.png",
+      "description": "Modern IPTV streaming platform with responsive design and smooth streaming experience."
+    },
+    {
+      "id": "billing-system",
+      "title": "Billing & Invoicing System",
+      "category": "Business Management System",
+      "previewImage": "https://faysal.kesug.com/faysal/billing.png",
+      "description": "Customer billing, payment tracking, due management and reporting system."
+    },
+    {
+      "id": "isp-ticket-support",
+      "title": "ISP Ticket Support System",
+      "category": "ISP Management",
+      "previewImage": "https://faysal.kesug.com/faysal/ticketing.png",
+      "description": "Complaint management and support ticket handling platform for ISPs."
+    },
+    {
+      "id": "quran-listening-reading",
+      "title": "Quran Listening & Reading",
+      "category": "Islamic Web Application",
+      "previewImage": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&auto=format&fit=crop&q=60",
+      "description": "Modern Quran reading and listening platform with responsive interface."
+    }
+  ],
+  "other": [
+    { "title": "IPTV Admin Dashboard", "category": "IPTV Solutions" },
+    { "title": "Customer Management System (CMS)", "category": "Business Management" },
+    { "title": "Authentication System", "category": "Security & Core" },
+    { "title": "Employee Management System (EMS)", "category": "Business Management" },
+    { "title": "Complaint Management System", "category": "ISP Operations" },
+    { "title": "URL Shortener", "category": "Web Utility" },
+    { "title": "Portfolio Website", "category": "Web Design" },
+    { "title": "Money Management System", "category": "Finance" },
+    { "title": "AI Chatbot", "category": "Artificial Intelligence" }
+  ]
+}

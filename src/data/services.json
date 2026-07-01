@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Business Web Applications",
+    "description": "Custom, secure, and fully-featured business applications optimized for performance and workflow efficiency.",
+    "icon": "AppWindow"
+  },
+  {
+    "title": "Static Website Development",
+    "description": "Highly responsive, lightweight, and modern static web portals with flawless UI/UX and fast loading speeds.",
+    "icon": "Laptop"
+  },
+  {
+    "title": "Billing System Development",
+    "description": "Secure billing engines tracking subscriptions, dues, invoice creation, and payment collection automation.",
+    "icon": "Receipt"
+  },
+  {
+    "title": "IPTV Solution Development",
+    "description": "Custom high-performance streaming portals, channel rosters, M3U playlist handlers, and client media controllers.",
+    "icon": "Tv"
+  },
+  {
+    "title": "ISP Management System",
+    "description": "Operations management suite for ISPs incorporating client profiles, bandwidth packages, billing pipelines, and troubleshooting workflows.",
+    "icon": "Network"
+  },
+  {
+    "title": "Customer Management System",
+    "description": "Bespoke CRM suites for detailed client records, activity trackers, invoice histories, and engagement analytics.",
+    "icon": "Users"
+  },
+  {
+    "title": "Admin Dashboard Development",
+    "description": "High-fidelity internal control rooms showing real-time statistics, database metrics, and service status monitors.",
+    "icon": "LayoutDashboard"
+  },
+  {
+    "title": "REST API Integration",
+    "description": "Robust, secure backend-to-frontend integrations utilizing structured JSON payloads, token security, and endpoint optimization.",
+    "icon": "Cpu"
+  },
+  {
+    "title": "UI/UX Design",
+    "description": "User-centric interface wireframes, prototypes, typography standards, and color schemes engineered for maximal engagement.",
+    "icon": "Palette"
+  },
+  {
+    "title": "Website Maintenance",
+    "description": "Proactive site optimizations, database cleanups, security patches, bug resolutions, and speed enhancements.",
+    "icon": "Wrench"
+  }
+]
